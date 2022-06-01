@@ -1,0 +1,56 @@
+body{
+
+margin: 0;
+
+margin-top: 50px;
+
+font-family: sans-serif;
+
+    background-color:beige
+}
+
+
+header{
+    display: flex;
+
+position: fixed;
+
+top: 0;
+
+left: 0;
+
+right: 0;
+
+height: 100px;
+
+line-height: 100px;
+    background-color:burlywood
+}
+h1{
+    background-color:bisque
+}
+
+nav {
+    text-decoration-color: black
+    font-family: sans-serif
+}
+
+footer {
+    width=50px
+    height=20px
+}
+.model1{
+    width: 1000px;
+    padding: 10px;
+    border:10px ;
+   background-color: burlywood
+}
+
+
+p {
+    color: black
+}
+
+div {
+   
+}
