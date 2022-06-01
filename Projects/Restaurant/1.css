@@ -1,0 +1,50 @@
+body{
+    font-family: 'Josefin Sans';
+    background-image: url(pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul li{
+     display: inline-block;
+    margin: 20px;  
+}
+
+.profile-img{
+    margin-right: 700px;
+}
+nav{
+    
+    max-width: 1200px;
+    margin: 0 auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    line-height: 50px;
+    background-color: #eee;
+}
+
+p{
+    color: coral;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+b{
+    color: black;
+    font-size: 50px;
+}
+
+
+ 
+a{
+    font-size: 25px;
+    color: coral;
+    text-align: left;
+}
+
+
+input {
+    background-color: orange;
+}
